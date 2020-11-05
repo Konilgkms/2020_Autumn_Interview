@@ -70,5 +70,5 @@ GBDT每一次的计算是都为了减少上一次的残差，进而在残差减�
 - Leaf-wise的缺点是可能会长出比较深的决策树，产生过拟合。因此 LightGBM 在 Leaf-wise 之上增加了一个最大深度的限制，在保证高效率的同时防止过拟合。
 
 参考/推荐阅读：
-https://mp.weixin.qq.com/s/NC9CwR4cfDUJ26WpHsvkPQ
-https://mp.weixin.qq.com/s/BIHr5GDunm2U-Szs0Dt32w
+- https://mp.weixin.qq.com/s/NC9CwR4cfDUJ26WpHsvkPQ
+- https://mp.weixin.qq.com/s/BIHr5GDunm2U-Szs0Dt32w
